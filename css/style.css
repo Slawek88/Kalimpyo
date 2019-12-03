@@ -29,7 +29,6 @@ html {
     background-position: center;
     position: relative;
     background-attachment: scroll;
-    /* font-weight: 100; */
 }
 
 
@@ -69,6 +68,12 @@ html {
     /* change padding 40 and 80 to 6 */
     font-size: 1.2rem;
 }
+
+/* i {
+    font-family: 'FontAwesome' !important;
+    font-weight: 100 !important;
+} */
+
 
 
 .fa fa-inbox {
@@ -158,9 +163,6 @@ html {
     font-size: 1.4rem;
 }
 
-/* .contact-end ul li img { */
-/* text-align: center; */
-/* } */
 
 .section-end .contact-map {
     display: -webkit-box;
@@ -192,7 +194,7 @@ html {
 .ptext .border.first {
     background-color: #111;
     color: #fff;
-    padding: 30px;
+    padding: 20px;
     text-align: center;
     font-size: 2rem;
 }
