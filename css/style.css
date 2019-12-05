@@ -23,6 +23,7 @@ html {
 
 /* Logo */
 .pimg-logo {
+    padding-bottom: 2px;
     background-image: url('../img/logo.jpg');
     /* background-size: 17%; */
     background-repeat: no-repeat;
