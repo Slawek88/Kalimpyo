@@ -154,7 +154,7 @@ html {
     list-style-type: none;
     list-style: none;
     line-height: 2.0rem;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 
@@ -261,17 +261,13 @@ section-dark section-end .map-responsive iframe {
 
 
 
-@media (max-width: 900px) {
+@media (max-width: 915px) {
 
     .ptext .border.first,
     .ptext .border {
         font-size: 1rem;
     }
 
-
-}
-
-@media (max-width: 850px) {
     .pimg-logo {
         padding: 42px;
     }
@@ -281,6 +277,17 @@ section-dark section-end .map-responsive iframe {
     }
 
 }
+
+/* @media (max-width: 850px) {
+     .pimg-logo {
+        padding: 42px;
+    }
+
+    .contact-first li {
+        display: none;
+    }
+
+} */
 
 @media (max-width: 750px) {
 
